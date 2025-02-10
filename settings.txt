@@ -1,0 +1,5 @@
+# adding server to the list
+# in the startup script of the server add screen -s screenname 
+# this program is made to make managing the servers more ez anth keep track of were what server is 
+#	 --> importand to keep formatting rules as this <--
+#screenname    dirname                                        launch script 
